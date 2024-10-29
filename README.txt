@@ -22,6 +22,7 @@ MiniJava/
 ├── SamplePrograms/         # Sample MiniJava programs
 ├── lib/                    # External libraries
 └── test/                  # Test MiniJava programs
+
 Grammar and Syntax Rules
 For a complete list of supported grammar rules, please refer to the src/Parser/minijava.cup directory.
 
